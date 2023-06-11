@@ -19,6 +19,7 @@
 
 
 ## OUTPUT
+[WDIA EX NO 10 .pdf](https://github.com/Akshayaprabha/EX10_Web-Design/files/11715485/WDIA.EX.NO.10.pdf)
 
 
 ## RESULT
